@@ -1,0 +1,19 @@
+name: Question
+description: Ask how something works or how to use it
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the repository's README and existing issues first. For security vulnerabilities, don't use this form. See SECURITY.md.
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like to know?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: What have you tried?
+      description: Commands, links to the docs you read, or anything else that helps.
