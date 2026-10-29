@@ -8,7 +8,7 @@ Please report vulnerabilities privately. Don't open a public issue, pull request
 2. Click **Report a vulnerability** (GitHub private vulnerability reporting).
 3. Describe the issue, the affected version or commit, and steps to reproduce.
 
-If the repository doesn't show that option, email [contact@braunf.com](mailto:contact@braunf.com) instead, with the repository name and the same details.
+If the repository doesn't show that option, email [security@braunf.com](mailto:security@braunf.com) instead, with the repository name and the same details.
 
 Several repositories here run on hardware that listens to or transmits on radio frequencies (NetworkSniffer, CrossWave). Reports about firmware flaws, unsafe defaults or misuse risks are in scope and welcome.
 
